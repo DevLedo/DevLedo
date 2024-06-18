@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-### Prazer, Eu sou Gabriel Ledo! 👋
+ Prazer, Eu sou Gabriel Ledo! 👋
 
 - 👨‍💻 Iniciante no desenvolvimento, começando com C# e tecnologias .NET, como ASP.NET Core, Entity Framework, LINQ, entre outras.
 - 🌱 Busco ampliar meus conhecimentos para me tornar um dia um desenvolvedor Full Stack.
@@ -33,7 +33,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJmcGo5ZWFhOGI4OXVwMTltN3Z1cnhseW1pYnFodzh6NnV1cjQzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Imagem">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJmcGo5ZWFhOGI4OXVwMTltN3Z1cnhseW1pYnFodzh6NnV1cjQzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Imagem" style="width: 100%; max-width: 400px; height: auto; min-width: 400px; min-height: 150px;">
 </p>
 
 ## 🔥 Skills
@@ -50,17 +50,10 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="ASP.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-    <img align="center" alt="Entity Framework" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-    <img align="center" alt="LINQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   </div>
   
-  <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Entity Framework" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-    <img align="center" alt="LINQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-    <img align="center" alt="Lambda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  </div>
+ 
 
-</div>
+
+
 
