@@ -14,7 +14,6 @@ Busco ampliar meus conhecimentos para me tornar um dia um desenvolvedor Full Sta
 
 Na busca da minha primeira oportunidade como programador na indústria de tecnologia.
 
-👨‍💻 Mais sobre mim:
 </p>
 
 <!-- Dropdown -->
@@ -35,8 +34,8 @@ Na busca da minha primeira oportunidade como programador na indústria de tecnol
 ## Portfolio:
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJmcGo5ZWFhOGI4OXVwMTltN3Z1cnhseW1pYnFodzh6NnV1cjQzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
