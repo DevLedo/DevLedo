@@ -8,7 +8,7 @@
 <p>
  Prazer, Eu sou Gabriel Ledo! 👋
 
-- 👨‍💻 Iniciante no desenvolvimento, começando com C# e tecnologias .NET, como ASP.NET Core, Entity Framework, LINQ, entre outras.
+- 👨‍💻 Iniciante no desenvolvimento, estudando C# e tecnologias como .NET, ASP.NET Core, Entity Framework, LINQ, entre outras.
 - 🌱 Busco ampliar meus conhecimentos para me tornar um dia um desenvolvedor Full Stack.
 - 🔍 Na busca da minha primeira oportunidade como programador na indústria de tecnologia.
 
